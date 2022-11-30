@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.3"
+  }
+}
